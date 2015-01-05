@@ -1,0 +1,14 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '7.0'
+
+target 'SpeedClean' do
+
+pod 'ECSlidingViewController', '~> 2.0.3'
+pod 'UIImage+BlurredFrame'
+
+end
+
+target 'SpeedCleanTests' do
+
+end
+
